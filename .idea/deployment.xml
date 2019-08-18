@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="POS" deleteMissingItems="true" createEmptyFolders="true">
+    <serverData>
+      <paths name="POS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="My_POS" local="$PROJECT_DIR$" web="/My_POS" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
